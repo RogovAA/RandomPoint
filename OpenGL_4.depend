@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1490198184 source:c:\users\Алексей\desktop\opengl_lesson\opengl_4\opengl_4.cpp
+	<GL/glut.h>
+	<stdlib.h>
+
+1490108608 source:c:\users\Алексей\desktop\opengl_lesson\opengl_4\tochka.cpp
+	<GL/glut.h>
+	<stdlib.h>
+
+1490108608 source:c:\users\Пользователь\desktop\ДИССЕРТАЦИЯ\opengl_4\tochka.cpp
+	<GL/glut.h>
+	<stdlib.h>
+
+1490246755 source:c:\users\Пользователь\desktop\ДИССЕРТАЦИЯ\opengl_4\opengl_4.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<cmath>
+
+1490108608 source:c:\users\Алексей\desktop\ДИССЕРТАЦИЯ\opengl_4_1\tochka.cpp
+	<GL/glut.h>
+	<stdlib.h>
+
+1490503567 source:c:\users\Алексей\desktop\ДИССЕРТАЦИЯ\opengl_4_1\opengl_4.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<cmath>
+
+1490503567 source:c:\users\Алексей\desktop\disser\opengl_4_1\opengl_4.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<cmath>
+
