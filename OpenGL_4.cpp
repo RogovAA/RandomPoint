@@ -50,6 +50,7 @@ void display()
         if(x1 - x < y1 - y && x1 - x < z1 - z && x1 - x < (abs(x2-x)) && x1 - x < (abs(y2 - y)) && x1 - x < (abs(z1 - z))){        //1 минимальное расстояние до грани х
             m = x1 - x + 1;
             x = x + rand()%m; y = y + rand()%m; z = z + rand()%m;
+            //Выбираем случайно направление появления новой точки
             if(r == 0){
                 glVertex3f(x,y,z);
                 sumx = sumx+x; sumy=sumy+y; sumz=sumz+z;
